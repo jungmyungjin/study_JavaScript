@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "001-Hello World with Javascript"
+		},
+		{
+			"path": "002-practice Javascript"
 		}
-	]
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "002-practice Javascript"
+	}
 }
