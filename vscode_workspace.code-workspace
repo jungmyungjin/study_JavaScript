@@ -4,10 +4,10 @@
 			"path": "001-Hello World with Javascript"
 		},
 		{
-			"path": "002-practice Javascript"
+			"path": "003-Data Types on JS"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "002-practice Javascript"
+		"liveServer.settings.multiRootWorkspaceName": "003-Data Types on JS"
 	}
 }
