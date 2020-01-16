@@ -5,9 +5,15 @@
 		},
 		{
 			"path": "003-Data Types on JS"
+		},
+		{
+			"path": "004-Organizing Data with Arrays"
+		},
+		{
+			"path": "005-My first JS Function"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "003-Data Types on JS"
+		"liveServer.settings.multiRootWorkspaceName": "005-My first JS Function"
 	}
 }
