@@ -11,9 +11,15 @@
 		},
 		{
 			"path": "005-My first JS Function"
+		},
+		{
+			"path": "006-More Function Fun"
+		},
+		{
+			"path": "007-Dom Function"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "005-My first JS Function"
+		"liveServer.settings.multiRootWorkspaceName": "007-Dom Function"
 	}
 }
