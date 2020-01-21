@@ -20,9 +20,12 @@
 		},
 		{
 			"path": "coding_practice\\[programmers] 가운데 글자 가져오기"
+		},
+		{
+			"path": "008-Modifying the DOM with JS"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "[programmers] 가운데 글자 가져오기"
+		"liveServer.settings.multiRootWorkspaceName": "008-Modifying the DOM with JS"
 	}
 }
