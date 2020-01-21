@@ -13,7 +13,7 @@ function solution(s) {
     var answer = '';
     var string = s.split(''); // 각 배열로 집어넣음
     var string_length = string.length;
-    var string_center = parseInt(string.length / 2) - 1; // 소수점 제거, array는 0부터 시작하여 -1
+    var string_center = Math.floor(string.length / 2) - 1; // 소수점 제거, array는 0부터 시작하여 -1
 
     if (1<string_length && string_length<=100){
         if (string_length % 2) { // 나머지 : 5 = 홀

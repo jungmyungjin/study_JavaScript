@@ -17,9 +17,12 @@
 		},
 		{
 			"path": "007-Dom Function"
+		},
+		{
+			"path": "coding_practice\\[programmers] 가운데 글자 가져오기"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "007-Dom Function"
+		"liveServer.settings.multiRootWorkspaceName": "[programmers] 가운데 글자 가져오기"
 	}
 }
