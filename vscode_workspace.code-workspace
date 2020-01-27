@@ -23,9 +23,15 @@
 		},
 		{
 			"path": "008-Modifying the DOM with JS"
+		},
+		{
+			"path": "009-Events and event handlers"
+		},
+		{
+			"path": "010-If, else, and or"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "008-Modifying the DOM with JS"
+		"liveServer.settings.multiRootWorkspaceName": "010-If, else, and or"
 	}
 }
