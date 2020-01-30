@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background-color: pink;
+}
+
+.bg_color1 {
+  background-color: rgb(224, 195, 32);
+}
+
+.bg_color2 {
+  background-color: rgb(104, 42, 104);
+}
+
+.bg_color3 {
+  background-color: rgb(59, 127, 136);
+}
