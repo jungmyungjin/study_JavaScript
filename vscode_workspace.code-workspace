@@ -34,13 +34,16 @@
 			"path": "012-DOM, if else, function practice2"
 		},
 		{
-			"path": "coding_practice\\[nomardCoder_chellenge] Vanilla JS\\Day3"
+			"path": "013-Macke a JS Clock"
 		},
 		{
-			"path": "013-Macke a JS Clock1"
+			"path": "014- Saving the User Name"
+		},
+		{
+			"path": "015-Making a To Do List"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "013-Macke a JS Clock1"
+		"liveServer.settings.multiRootWorkspaceName": "015-Making a To Do List"
 	}
 }
