@@ -41,9 +41,12 @@
 		},
 		{
 			"path": "015-Making a To Do List"
+		},
+		{
+			"path": "coding_practice\\[nomardCoder_chellenge] Vanilla JS\\Day8"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "015-Making a To Do List"
+		"liveServer.settings.multiRootWorkspaceName": "Day8"
 	}
 }
