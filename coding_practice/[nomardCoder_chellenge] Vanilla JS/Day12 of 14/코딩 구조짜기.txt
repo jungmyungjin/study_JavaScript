@@ -1,0 +1,45 @@
+handleNumber => input받은 값을 number변수에 이어주는 역할.
+
+operator => 연산자를 받고 계산까지 해주는 역할.
+
+[초기값]
+num1 = null
+num2 = null
+oper = null
+tmpNum = null
+
+[현재값]
+Num1 = null
+num2 = null
+oper = +
+tmpNum = 115
+
+출력 : 115
+
+>
+
+- 숫자 이벤트인 경우
+	1. 입력받은값을 tmpNum에 이어 넣는다. 
+	2. tmpNum을 출력한다.
+
+- 연산자 이벤트인 경우
+	1. oper에 입력받은 값을 넣는다.
+	2. num1에 값이 있는지 확인
+		2-1. 값이 없다면, 
+		    2-1-0 num1=tmpNum을 한다.
+			2-1-1. tmpNum=null로 수정한다.
+		2-2. 값이 있다면, num2=tmpNum을 한다
+			2-2-1. tmpNum=null로 수정한다.
+			2-2-2. num1 , oper, num2의 연산을 한다.
+			2-2-3. num1에 연산결과값을 넣는다.
+			2-2-4. num1값을 출력한다.
+			2-2-5. num2, tmpNum 을 null 바꾼다.
+	
+- = 을 누른 경우
+	!!! oper에 입력한 값을 넣지 않는다 !!!!
+	1. num2 = tmpNum을 한다.
+	2. num1 , oper, num2의 연산을 한다.
+	3. num1에 연산 결과값을 넣는다.
+	4. num1값을 출력한다.
+    5.tmpNum = num1,
+    5 num1, num2 을 null

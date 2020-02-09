@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.btn_gray {
+  background-color: gray;
+}
+
+.btn_orange {
+  background-color: orange;
+}
+
+.btn_silver {
+  background-color: silver;
+}
+
+input[type="button"] {
+  background-color: green;
+  color: black;
+  border: solid black 2px;
+  width: 100%
+}
