@@ -1,52 +1,64 @@
 {
 	"folders": [
-		{
-			"path": "001-Hello World with Javascript"
-		},
-		{
-			"path": "003-Data Types on JS"
-		},
-		{
-			"path": "004-Organizing Data with Arrays"
-		},
-		{
-			"path": "005-My first JS Function"
-		},
-		{
-			"path": "006-More Function Fun"
-		},
-		{
-			"path": "007-Dom Function"
-		},
-		{
-			"path": "008-Modifying the DOM with JS"
-		},
-		{
-			"path": "009-Events and event handlers"
-		},
-		{
-			"path": "010-If, else, and or"
-		},
-		{
-			"path": "011-DOM, If else, Function practice"
-		},
-		{
-			"path": "012-DOM, if else, function practice2"
-		},
-		{
-			"path": "013-Macke a JS Clock"
-		},
-		{
-			"path": "014- Saving the User Name"
-		},
-		{
-			"path": "015-Making a To Do List"
-		},
-		{
-			"path": "coding_practice\\[nomardCoder_chellenge] Vanilla JS\\Day8"
-		}
-	],
+    {
+      "path": "001-Hello World with Javascript"
+    },
+    {
+      "path": "003-Data Types on JS"
+    },
+    {
+      "path": "004-Organizing Data with Arrays"
+    },
+    {
+      "path": "005-My first JS Function"
+    },
+    {
+      "path": "006-More Function Fun"
+    },
+    {
+      "path": "007-Dom Function"
+    },
+    {
+      "path": "008-Modifying the DOM with JS"
+    },
+    {
+      "path": "009-Events and event handlers"
+    },
+    {
+      "path": "010-If, else, and or"
+    },
+    {
+      "path": "011-DOM, If else, Function practice"
+    },
+    {
+      "path": "012-DOM, if else, function practice2"
+    },
+    {
+      "path": "013-Macke a JS Clock"
+    },
+    {
+      "path": "014- Saving the User Name"
+    },
+    {
+      "path": "015-Making a To Do List"
+    },
+    {
+      "path": "016-Image Background"
+    },
+    {
+      "path": "C:\\GitHub\\jungmyungjin\\practice_photo"
+    },
+    {
+      "path": "017-Getting the weather"
+    },
+    {
+      "path": "coding_practice\\[nomardCoder_chellenge] Vanilla JS\\Day12 of 14"
+    },
+    {
+      "path": "coding_practice\\[nomardCoder_chellenge] Vanilla JS\\Final"
+    }
+  ],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Day8"
+		"liveServer.settings.multiRootWorkspaceName": "Final"
 	}
 }
