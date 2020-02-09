@@ -1,5 +1,5 @@
 {
-	"folders": [
+  "folders": [
     {
       "path": "001-Hello World with Javascript"
     },
@@ -55,10 +55,10 @@
       "path": "coding_practice\\[nomardCoder_chellenge] Vanilla JS\\Day12 of 14"
     },
     {
-      "path": "coding_practice\\[nomardCoder_chellenge] Vanilla JS\\Final"
+      "path": "coding_practice\\Momentum Clone Coding"
     }
   ],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Final"
-	}
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Final"
+  }
 }
