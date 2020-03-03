@@ -56,9 +56,12 @@
     },
     {
       "path": "coding_practice\\Momentum Clone Coding"
+    },
+    {
+      "path": "coding_practice\\[procrammers] 2016년"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "Final"
+    "liveServer.settings.multiRootWorkspaceName": "[procrammers] 2016년"
   }
 }
