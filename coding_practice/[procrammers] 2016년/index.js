@@ -34,12 +34,9 @@ function solution(a, b) {
       });
     }
   }
-  console.log("days = " + days);
 
   //일
   days = days + (day - 1);
-
-  console.log("days = " + days);
 
   answer = dayOfWeek(5, days);
 
